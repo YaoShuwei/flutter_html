@@ -9,8 +9,8 @@ environment:
   flutter: '>=0.5.0'
 
 dependencies:
-  html: ^0.14.0
-  extended_image: ^0.6.4
+  html: ^0.14.0+3
+  extended_image: ^0.6.5
   flutter:
     sdk: flutter
 
